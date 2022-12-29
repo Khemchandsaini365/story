@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is file 3.this is edited
+=======
+this is file 3.for new branch
+>>>>>>> forNewBranch
